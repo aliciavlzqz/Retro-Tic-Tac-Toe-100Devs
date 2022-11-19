@@ -41,3 +41,15 @@ body{
   justify-content: center;
   align-items: center;
 }
+
+.border-right-bottom{
+  border-right: solid rgb(5, 115, 166) 0.2em;
+  border-bottom: solid rgb(5, 115, 166) 0.2em;
+  
+}
+.border-bottom{
+  border-bottom: solid rgb(5, 115, 166) 0.2em;
+}
+.border-right{
+  border-right: solid rgb(5, 115, 166) 0.2em;
+}
