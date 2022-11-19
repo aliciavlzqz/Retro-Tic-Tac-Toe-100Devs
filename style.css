@@ -1,0 +1,18 @@
+html{
+    background: url(https://res.cloudinary.com/doepoiym4/image/upload/v1668300821/retroback_g5artc.png) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+/* add a font that gives an 80's vibe*/
+/* picking the perfect font took longer than I care to admit*/
+
+#nameTheGame{
+  font-family: 'Sonsie One', Arial, Helvetica, sans-serif;
+  text-align: center;
+  font-size: 3em;
+  color: orangered;
+}
+
