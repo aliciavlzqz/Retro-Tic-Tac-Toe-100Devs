@@ -34,7 +34,7 @@ body{
   position: relative;
 }
 
-.strike{
+#strike{
   position: absolute;
   background-color: orangered;
 }
