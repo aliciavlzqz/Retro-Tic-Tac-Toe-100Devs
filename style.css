@@ -31,6 +31,30 @@ body{
   grid-template-columns: 100px 100px 100px;
   grid-template-rows: 100px 100px 100px;
   cursor: pointer;
+  position: relative;
+}
+
+.strike{
+  position: absolute;
+  background-color: orangered;
+}
+
+.first-row-strike{
+  width: 100%;
+  height: 4px;
+  top: 15%;
+}
+
+.second-row-strike{
+  width: 100%;
+  height: 4px;
+  top: 48%;
+}
+
+.third-row-strike{
+  width: 100%;
+  height: 4px;
+  top: 83%;
 }
 
 /* tiles */
